@@ -14,10 +14,6 @@
 
 
 
-<p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
-</p>
-
 ---
 
 
@@ -103,14 +99,6 @@ AWS Cloud Practitioner Essentials
 AWS Cloud Foundations  
 DevOps & Docker Fundamentals  
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Hitesh8411&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hitesh8411&theme=tokyonight" />
-</p>
 
 ---
 
